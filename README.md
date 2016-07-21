@@ -15,4 +15,4 @@ meteor npm install
 meteor
 ```
 
-That's all! Have fun, cause Meteor is awesome! ;)
+That's all! Have fun, Meteor is awesome! ;)
