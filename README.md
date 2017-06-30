@@ -1,7 +1,6 @@
 # meteor-todoapp
-To do app built with Meteor following [their website documentation](https://www.meteor.com/tutorials/blaze/creating-an-app).
 
-#Running
+# Running
 
 First of all, clone this repository:
 
